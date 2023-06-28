@@ -1,0 +1,7 @@
+#list of ignored file types and folders
+.DS_Store
+*.iml
+/.idea
+/out
+/target
+/bin
